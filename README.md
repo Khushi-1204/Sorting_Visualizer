@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 
-Live project link : file:///C:/Users/khush/OneDrive/Desktop/Githubb/Sorting_Visualizer/index.html
+Live project link : https://khushi-1204.github.io/Sorting_Visualizer/
 
 This is a single page Application
 
